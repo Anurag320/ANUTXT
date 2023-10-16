@@ -1,7 +1,7 @@
 {
-    "name":"pyro",
-    "description":"Download videos from various websites using this telegram bot",
-    "repository":"https://github.com/Adrenalinators/TXTLeechBot",
+    "name":"ANU",
+    "description":"YOUR APP NAME",
+    "repository":"https://github.com/Anurag320/ANUTXT",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
